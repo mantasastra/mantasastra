@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋
+
+I'm Mantas, nice to meet you!
+
+### Badges
+<a href="https://www.learnenough.com/certificates/mastrauskas"><img src="https://www.learnenough.com/certificates/mastrauskas/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 <!--
 **MAstrauskas/MAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
