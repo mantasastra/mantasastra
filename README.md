@@ -1,8 +1,4 @@
-## Hi 👋
-
-I'm Mantas, nice to meet you!
-
-### Badges
+## Hello 👋
 <a href="https://www.learnenough.com/certificates/mastrauskas"><img src="https://www.learnenough.com/certificates/mastrauskas/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 <!--
