@@ -1,5 +1,5 @@
 ## Hi, I'm Mantas. 👋
-It's nice to meet you.
+Nice to meet you.
 
 ### Projects I've worked on
 - [Sunatation Designs](https://sunatation.com)
