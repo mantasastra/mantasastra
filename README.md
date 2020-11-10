@@ -1,17 +1,14 @@
-## Hello 👋
-<a href="https://www.learnenough.com/certificates/mastrauskas"><img src="https://www.learnenough.com/certificates/mastrauskas/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+## Hi, I'm Mantas. 👋
+It's nice to meet you.
 
-<!--
-**MAstrauskas/MAstrauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects I've worked on
+- [Sunatation Designs](https://sunatation.com)
+- [Cross-Country Route Builder](https://cross-country-route-builder.netlify.app/) (GitHub repo -> [click here](https://github.com/mantasastra/route-builder))
+- [Task Activity Planner](https://tap-webapp.herokuapp.com/) (GitHub repo -> [click here](https://github.com/mantasastra/tap-web-app))
+- [E-Commerce Web App](https://online-e-shop-app.herokuapp.com/) (GitHub repo -> [click here](https://github.com/mantasastra/ecommerce-app))
 
-Here are some ideas to get you started:
+### Achievements
+- [Link to certificates](https://github.com/mantasastra/certificates/blob/main/README.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Badges
+ <a href="https://www.learnenough.com/certificates/mastrauskas"><img src="https://www.learnenough.com/certificates/mastrauskas/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
