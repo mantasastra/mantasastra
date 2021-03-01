@@ -10,6 +10,3 @@ Nice to meet you.
 
 ### Projects I'm worked at:
 - [Dunelm](https://dunelm.com)
-
-### Achievements
-- [Link to certificates](https://github.com/mantasastra/certificates/blob/main/README.md)
