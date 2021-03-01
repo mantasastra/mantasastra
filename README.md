@@ -8,5 +8,5 @@ Nice to meet you.
 - [Task Activity Planner](https://tap-webapp.herokuapp.com/) (GitHub repo -> [click here](https://github.com/mantasastra/tap-web-app))
 - [E-Commerce Web App](https://online-e-shop-app.herokuapp.com/) (GitHub repo -> [click here](https://github.com/mantasastra/ecommerce-app))
 
-### Projects I'm worked at:
+### Projects I've worked at:
 - [Dunelm](https://dunelm.com)
