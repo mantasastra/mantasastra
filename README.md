@@ -5,6 +5,7 @@ Nice to meet you.
 - [Prolific App](https://app.prolific.co/)
 
 ### Projects I've worked on:
+- [Auguste Design](https://augustedesign.com)
 - [Dunelm](https://dunelm.com)
 - [Receipt Printer](https://receipt-printer.netlify.app/) (GitHub repo -> [click here](https://github.com/mantasastra/receipt-printer))
 - [Cross-Country Route Builder](https://cross-country-route-builder.netlify.app/) (GitHub repo -> [click here](https://github.com/mantasastra/route-builder))
